@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GunFireDemo.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\GunFireDemo\GunFireDemo\Intermediate\Build\Win64\GunFireDemoEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\GunFireDemo\GunFireDemo\Intermediate\Build\Win64\UnrealEditor\Development\GunFireDemo\GunFireDemo.cpp.obj"
+"F:\GunFireDemo\GunFireDemo\Intermediate\Build\Win64\UnrealEditor\Development\GunFireDemo\GunFireDemoGameModeBase.cpp.obj"
+"F:\GunFireDemo\GunFireDemo\Intermediate\Build\Win64\UnrealEditor\Development\GunFireDemo\GunFireDemo.init.gen.cpp.obj"
+"F:\GunFireDemo\GunFireDemo\Intermediate\Build\Win64\UnrealEditor\Development\GunFireDemo\GunFireDemoGameModeBase.gen.cpp.obj"
+"F:\GunFireDemo\GunFireDemo\Intermediate\Build\Win64\UnrealEditor\Development\GunFireDemo\Default.rc2.res"
+/OUT:"F:\GunFireDemo\GunFireDemo\Intermediate\Build\Win64\UnrealEditor\Development\GunFireDemo\UnrealEditor-GunFireDemo.lib"
+/INCLUDE:IMPLEMENT_MODULE_GunFireDemo
