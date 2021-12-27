@@ -1,2 +1,7 @@
 /.vs
 /Intermediate/Build/Win64/GunFireDemoEditor/Development/Engine
+/Intermediate
+/GunFireDemo.sln
+/DerivedDataCache
+/Saved
+/Binaries

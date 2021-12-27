@@ -1,2 +1,0 @@
-F:\GunFireDemo\GunFireDemo\Intermediate\Build\Win64\UnrealEditor\Development\GunFireDemo\Definitions.GunFireDemo.h
-F:\GunFireDemo\GunFireDemo\Source\GunFireDemo\GunFireDemo.h
